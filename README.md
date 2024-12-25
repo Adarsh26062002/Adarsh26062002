@@ -9,16 +9,27 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ### 🚀 About Me
-- 🔭 Passionate about creating robust and scalable applications  
-- 🌱 Currently exploring **VueJs**  
-- 💡 Always eager to learn new technologies  
-- ⚡ Fun fact: I bring humor to coding sessions! 😄  
+- 🔭 Software Engineer [@Autron](https://github.com/Autron)
+- 🎓 B.Tech in Computer Science from IIIT Kottayam
+- 🌱 Currently exploring **VueJs**
+- 💡 Always eager to learn new technologies
+- ⚡ Fun fact: I bring humor to coding sessions! 😄
+
+### 🏆 Achievements
+- Ranked in **Top 10%** on LeetCode
+- Secured **Rank 115** in Inter-NIT Codathon 2022 (425/700)
+- Global Rank **278** in CodeChef July Long Challenge
+- **300+ days** of consistent problem solving on LeetCode
+- Solved **800+** Problems on LeetCode (Rating: 1685)
+- Global Rank **1483** out of 22,000+ candidates in LeetCode Weekly Contest 343
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### Programming Languages
+<div align="left" width="50%">
+
+### 🔤 Programming Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -26,7 +37,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </p>
 
-#### Frontend Development
+### 🎨 Frontend Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
@@ -36,31 +47,49 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
-<div align="right">
-
-### Backend Development
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</p>
-</div>
-
-#### Databases
+### 🛢️ Databases
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
-#### Tools & Platforms
-<p>
+</div>
+
+<div align="right" width="50%">
+
+### ⚙️ Backend Development
+<p align="right">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
 </p>
+
+</div>
+
+---
+
+### 🚀 Recent Projects
+
+#### LUXCART - E-Commerce Platform
+- Modern e-commerce platform built with Next.js and MongoDB
+- Features: User authentication, product management, cart functionality
+- Live: [luxcart/adarsh.app](https://luxcart/adarsh.app)
+- Admin Dashboard: [luxcart-admin/adarsh.app](https://luxcart-admin/adarsh.app)
+
+#### MOVIX - Movie Explorer
+- Single Page Application built with React and Redux
+- Features: Movie search, ratings, reviews, and recommendations
+- Live: [movix/adarsh.app](https://movix/adarsh.app)
 
 ---
 
@@ -74,12 +103,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh26062002&theme=dark" alt="GitHub Streak" />
 </div>
 
----
+### 💻 Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adarsh)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/adarsh)
 
-### 📫 Connect With Me
-- 📧 Email: adarshparihar2626@gmail.com  
-- 🌐 [LinkedIn](#) <!-- Add your LinkedIn profile link -->
-- 🌐 [Portfolio](#) <!-- Add your portfolio website link if you have one -->
+### 🔗 Connect With Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshparihar2626@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/adarshparihar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio/adarsh.in)
 
 ---
 
