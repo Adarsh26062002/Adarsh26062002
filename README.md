@@ -9,10 +9,12 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ### 🚀 About Me
-- 🔭 Passionate about creating robust and scalable applications
-- 🌱 Currently exploring **VueJs**
-- 💡 Always eager to learn new technologies
-- ⚡ Fun fact: I bring humor to coding sessions! 😄
+- 🔭 Passionate about creating robust and scalable applications  
+- 🌱 Currently exploring **VueJs**  
+- 💡 Always eager to learn new technologies  
+- ⚡ Fun fact: I bring humor to coding sessions! 😄  
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -57,6 +59,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
 </p>
 
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -67,12 +71,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh26062002&theme=dark" alt="GitHub Streak" />
 </div>
 
+---
+
 ### 📫 Connect With Me
-- Email: adarshparihar2626@gmail.com
-- [LinkedIn](#) <!-- Add your LinkedIn profile link -->
-- [Portfolio](#) <!-- Add your portfolio website link if you have one -->
+- 📧 Email: adarshparihar2626@gmail.com  
+- 🌐 [LinkedIn](#) <!-- Add your LinkedIn profile link -->
+- 🌐 [Portfolio](#) <!-- Add your portfolio website link if you have one -->
 
 ---
+
 <div align="center">
   <i>Happy Coding! 👨‍💻</i>
 </div>
