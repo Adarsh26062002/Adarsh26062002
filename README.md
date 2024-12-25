@@ -1,5 +1,3 @@
-# 👨‍💻 Adarsh Singh Parihar
-
 <div align="center">
   <img src="./github-header-image.png" alt="Header" width="100%"/>
   
