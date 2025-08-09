@@ -1,21 +1,29 @@
 name: Generate Snake
 
 on:
+  push:
+    branches: [ "main" ]
+    paths:
+      - ".github/workflows/generate-snake.yml"
+      - "README.md"
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
+    - cron: "0 0 * * *" # daily at 00:00 UTC
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: adarsh26062002
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+          outputs: dist/github-contribution-grid-snake-dark.svg
+          palette: github-dark
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
