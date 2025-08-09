@@ -12,7 +12,7 @@
 
 [<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=header"/>](https://capsule-render.vercel.app/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&height=100&lines=Hi%2C+I'm+Adarsh+Singh+Parihar;Full-Stack+Software+Engineer;GCP+Certified+Associate+Cloud+Engineer;Competitive+Programming+Enthusiast;Always+Building+and+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&height=100&lines=Hi%2C+I'm+Adarsh+Singh+Parihar;Full-Stack+Software+Engineer;GCP+Certified+Cloud+Engineer;Competitive+Programmer;Always+Building+and+Learning)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +23,7 @@
 ## 📚 About Me
 
 🎓 **B.Tech in Computer Science** from **IIIT Kottayam**  
-☁️ **GCP Certified Associate Cloud Engineer**  
+☁️ **GCP Certified Cloud Engineer**  
 💡 Passionate about **Full-Stack Development**, **Problem Solving**, and **Competitive Programming**  
 ⚡ Fun fact: I bring humor to coding sessions 😄
 
